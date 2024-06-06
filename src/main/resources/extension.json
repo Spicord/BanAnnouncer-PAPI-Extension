@@ -1,0 +1,6 @@
+{
+    "name": "PlaceholderAPI",
+    "key": "placeholderapi",
+    "class": "me.tini.announcer.papiext.PAPIExtension",
+    "requiredClass": "me.clip.placeholderapi.PlaceholderAPI"
+}
